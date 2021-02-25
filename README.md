@@ -21,6 +21,8 @@
 
 ### 基本
 - Git
+    - 只需要看克隆和项目和更新本地代码即可
+    
     - Git下载安装
     [下载安装](https://blog.csdn.net/huangqqdy/article/details/83032408)
     - Git克隆项目
@@ -47,7 +49,7 @@
     
         https://www.cnblogs.com/delav/p/11118555.html
         
-    - 本地推代码
+    - 本地提交代码
     ```
         git add .
         git commit -m "提交理由"
