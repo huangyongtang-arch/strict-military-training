@@ -40,6 +40,8 @@
 - clone克隆项目
 
     ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-43-30.png)
+    
+    ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_23-28-28.png)
  
 - 更新代码到本地
 
