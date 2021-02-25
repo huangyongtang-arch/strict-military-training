@@ -1,5 +1,14 @@
 # strict-military-training
-- 两周军训计划
+两周军训计划
+
+#### 记得多pull该项目，同步更新文件。
+
+|  期限   | 任务  | 文档位置 |
+|  ----  | ----  | ---- |
+| 第二天  | git，调试工具，开源项目clone | Second-Day |
+| 第三天  | 运行调试开源项目 vue2入门 | 等待更新 |
+| 第四天  | 运行调试开源项目 react 入门 | waiting |
+| 第五天  | 编写自己的第一个vue页面 | waiting |
 
 ### second day
 - Git
