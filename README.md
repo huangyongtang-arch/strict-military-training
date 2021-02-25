@@ -47,6 +47,20 @@
     
 - 提交代码到Git
 
-    - 先commit 并编写commit理由
+    - 先add文件
+    
+        ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-50-35.png)
+        
+        ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-50-57.png)
+
+    - 再commit 并编写commit理由
+    
+        ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-49-37.png)
+        
+        ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-52-50.png)
+        
+    - 然后push
+    
+        ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-57-22.png)
         
     
