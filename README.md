@@ -36,6 +36,17 @@
         git push -u origin [分支名字]
     ``` 
         
-      
+### 用idea 来使用 git（高效）
+- clone克隆项目
+
+    ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-43-30.png)
+ 
+- 更新代码到本地
+
+    ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-46-08.png)
+    
+- 提交代码到Git
+
+    - 先commit 并编写commit理由
         
     
