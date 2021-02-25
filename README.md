@@ -9,11 +9,11 @@
     
         1.打开git bash
         
-        ![image](https://github.com/huangyongtang-arch/strict-military-training/images/Snipaste_2021-02-25_22-10-18.png)
+        ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-10-18.png)
         
         2.找到github项目 
         
-        ![image](https://github.com/huangyongtang-arch/strict-military-training/images/Snipaste_2021-02-25_22-18-36.png)
+        ![image](https://github.com/huangyongtang-arch/strict-military-training/blob/main/images/Snipaste_2021-02-25_22-18-36.png)
         
         3.克隆github或者码云仓库的项目-->clone后右键项目目录由idea打开
         
